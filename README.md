@@ -1,0 +1,1 @@
+This repository's purpose is to utilize 'GitHub Pages' to host information related to my "GitHub Sponsors" account as well as any other information I may need to host.
