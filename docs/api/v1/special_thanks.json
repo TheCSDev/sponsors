@@ -1,9 +1,6 @@
 [
-{
-	"name": "Testing entry",
-	"contact":
 	{
-		"homepage": "https://example.com"
+		"name": "FabricMC",
+		"contact": { "homepage": "https://github.com/FabricMC" }
 	}
-}
 ]
