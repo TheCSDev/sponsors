@@ -2,5 +2,9 @@
 	{
 		"name": "FabricMC",
 		"contact": { "homepage": "https://github.com/FabricMC" }
+	},
+	{
+		"name": "Sinytra Connector (Run Fabric mods on Forge)",
+		"contact": { "homepage": "https://www.curseforge.com/projects/890127" }
 	}
 ]
