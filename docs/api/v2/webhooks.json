@@ -1,5 +1,5 @@
 {
-	"tcdcommons:special_thanks": "https://fh.thecsdev.com/api/v1/minecraft-mods/tcdcommons/special-thanks",
-	"tcdcommons:featured_sponsors": "https://fh.thecsdev.com/api/v1/minecraft-mods/tcdcommons/featured-sponsors",
-	"betterstats:stattype_phrases": "https://fh.thecsdev.com/api/v1/minecraft-mods/betterstats/stattype-phrases"
+	"tcdcommons:special_thanks": "https://cdn.thecsdev.com/api/v1/minecraft-mods/tcdcommons/special-thanks",
+	"tcdcommons:featured_sponsors": "https://cdn.thecsdev.com/api/v1/minecraft-mods/tcdcommons/featured-sponsors",
+	"betterstats:stattype_phrases": "https://cdn.thecsdev.com/api/v1/minecraft-mods/betterstats/stattype-phrases"
 }
